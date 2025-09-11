@@ -20,7 +20,7 @@ Our club is driven by dedicated leaders who are passionate about building a stro
 
 President: Sharad Singh Thakur
 
-Vice President: Abhay Singh Sisodiya
+Vice President: Abhay Singh Sisoodiya
 
 🚀 Our Teams
 
