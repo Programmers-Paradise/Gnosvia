@@ -2,7 +2,7 @@
 Exploring the Frontiers of Artificial Intelligence and Beyond
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/600x300/1e293b/ffffff%3Ftext%3DGnosvia%26font%3Draleway" alt="Gnosvia Club Banner">
+<img src="[https://www.google.com/search?q=https://placehold.co/600x300/1e293b/ffffff%3Ftext%3DGnosvia%26font%3Draleway](https://github.com/Programmers-Paradise/Gnosvia/blob/main/assets/gnosvia.png)" alt="Gnosvia Club Banner">
 </div>
 
 👋 About Us
